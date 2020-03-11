@@ -1,0 +1,13 @@
+export const ABOUT_LOADING = 'ABOUT_LOADING';
+export const ABOUT_FAILED = 'ABOUT_FAILED';
+export const ADD_ABOUT = 'ADD_ABOUT';
+export const CONTACT_LOADING = 'CONTACT_LOADING';
+export const CONTACT_FAILED = 'CONTACT_FAILED';
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const WORK_LOADING = 'WORK_LOADING';
+export const WORK_FAILED = 'WORK_FAILED';
+export const ADD_WORK = 'ADD_WORK';
+export const HOME_LOADING = 'HOME_LOADING';
+export const HOME_FAILED = 'HOME_FAILED';
+export const ADD_HOME = 'ADD_HOME';
+export const ADD_QUERY = 'ADD_QUERY';

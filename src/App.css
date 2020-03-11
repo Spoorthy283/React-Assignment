@@ -1,0 +1,51 @@
+
+/**HOME **/
+
+/**HEADER NAVBAR **/
+.navbar {
+  border-bottom: solid thick #712082 !important;
+}
+.navbar-dark {
+  background-color: #512DA8;
+}
+
+.nav-link.active {
+  text-decoration: underline;
+}
+/** FOOTER **/
+.footer{
+  box-shadow: inset 0 0 10vw rgba(0,0,0,.02);
+    padding: 64px 0;
+    font-size: 14px;
+    background-color: #f4f4f4;
+    border-top: 1px solid #e8e8e8;
+    color: #424242;
+    line-height: 1.5;
+}
+
+
+/**OTHER **/
+.noBullets {
+  list-style-type: none;
+}
+.lileftmarg {
+  margin-left: -52px;
+}
+
+/**UNIVERSAL SETTINGS**/
+.siteColor {
+  background-color: #712082;
+  color:#fff;
+}
+.siteTextColor {
+  color: #712082;
+}
+.siteColor:hover {
+  background-color: #712082 !important;
+  color: #fff;
+}
+.bgImg {
+  height: 350px;
+  width:100%
+}
+
